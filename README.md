@@ -6,6 +6,8 @@ More documentation to come later....maybe
 ### Yara --help
 ```
 docker run -it yara-alpine yara --help
+```
+```
 YARA 3.5.0, the pattern matching swiss army knife.
 Usage: yara [OPTION]... RULES_FILE FILE | DIR | PID
 
