@@ -3,6 +3,14 @@
 Currently a quick and dirty yara container
 More documentation to come later....maybe
 
+### Quick install
+
+```
+git clone https://github.com/jwalker/yara-docker.git
+cd yara-docker
+docker build -t yara-docker .
+```
+
 ### Yara --help
 ```
 docker run -it yara-alpine yara --help
